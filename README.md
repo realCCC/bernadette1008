@@ -16,6 +16,7 @@
     <br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity" alt="Unity">
+    <img src="https://img.shields.io/badge/-Python-FFE400?style=for-the-badge&logo=Python" alt="Python">
 </div>
 
 ## > My SNS📲
