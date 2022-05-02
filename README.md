@@ -6,7 +6,7 @@
   </ul>
   <br>
   <p>
-    i do studying hard now...
+    I'm not good at coding, but I'm studying hard now..!
     <img align="right" src="https://img1.daumcdn.net/thumb/R1280x0.fgif/?fname=http://t1.daumcdn.net/brunch/service/user/7JRW/image/NLdOFBMRyHsBm1l847vneqtWi9s.gif" width="300">
   </p>
   <p>
