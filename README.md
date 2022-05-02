@@ -3,7 +3,7 @@
     <ul>
         <li>age : 18</li>
         <li>job : student</li>
-        <li>country : Korea</li>
+        <li>country : South Korea</li>
     </ul>
     <br>
     <p>
