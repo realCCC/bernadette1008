@@ -19,9 +19,11 @@
 </div>
 
 ### > My SNS📲
-<img src="https://img.shields.io/badge/-bernadette1008-181717?style=social&logo=Github" alt="Github"> 
-<img src="https://img.shields.io/badge/-kdilkm18kdilkm18@gmail.com-EA4335?style=social&logo=Gmail" alt="Gmail">
-  
+
+<div>
+    <a href=""><img src="https://img.shields.io/badge/-bernadette1008-181717?style=social&logo=Github" alt="Github"></a> 
+    <img src="https://img.shields.io/badge/-kdilkm18kdilkm18@gmail.com-EA4335?style=social&logo=Gmail" alt="Gmail">
+</div>
 
 
 ### > Github Stats ✌
