@@ -4,7 +4,7 @@
     <li>country : South Korea</li>
 </ul>
 
-### > I'm not good at coding, but I'm studying hard now..!👨🏻‍💻
+### I'm not good at coding, but I'm studying hard now..!👨🏻‍💻
 <img src="https://img1.daumcdn.net/thumb/R1280x0.fgif/?fname=http://t1.daumcdn.net/brunch/service/user/7JRW/image/NLdOFBMRyHsBm1l847vneqtWi9s.gif" width="300">
 
 ## > I'm studying...📖
@@ -24,7 +24,6 @@
     <a href="https://github.com/bernadette1008"><img src="https://img.shields.io/badge/-bernadette1008-181717?style=social&logo=Github" alt="Github"></a> 
     <img src="https://img.shields.io/badge/-kdilkm18kdilkm18@gmail.com-EA4335?style=social&logo=Gmail" alt="Gmail">
 </div>
-
 
 ## > Github Stats ✌
 ![realCCC's Github Stats](https://github-readme-stats.vercel.app/api?username=bernadette1008&count_private=true&show_icons=true&include_all_commits=true)  
