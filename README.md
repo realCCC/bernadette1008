@@ -23,7 +23,7 @@
 ![gmail](https://img.shields.io/badge/-kdilkm18kdilkm18@gmail.com-EA4335?style=social&logo=Gmail)
 
 
-## > My Blog
+## > My Blog🖥
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=bernadette1008&postId=)](https://bernadette1008.tistory.com/)
 
