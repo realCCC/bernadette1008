@@ -1,6 +1,7 @@
 <h2 align="center">👋Hi, I'm developer Yougjae Kim!</h2>
 <ul>
-    <li>age : 18</li><li>job : student</li>
+    <li>age : 18</li>
+    <li>job : student</li>
     <li>country : South Korea</li>
 </ul>
 
