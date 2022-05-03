@@ -25,7 +25,7 @@
 
 ## > My Blog
 
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=bernadette1008&postId=)](https://bernadette1008.tistory.com/)
 
 ## > Github Stats ✌
 ![realCCC's Github Stats](https://github-readme-stats.vercel.app/api?username=bernadette1008&count_private=true&show_icons=true&include_all_commits=true)  
